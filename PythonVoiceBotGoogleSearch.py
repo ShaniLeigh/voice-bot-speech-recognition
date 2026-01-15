@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 """
 Created on Fri Feb  7 08:45:51 2025
-
-@author: Shannon
+VoiceBotSearchSR
+@author: Shannon Leigh Comeaux
 """
 
 import speech_recognition as sr
@@ -84,3 +84,4 @@ listener = Voice()
 - If the command is "stop listening", the loop breaks, and the program stops listening.
 
 '''
+
